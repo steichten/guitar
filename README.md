@@ -59,3 +59,5 @@
 ![](assets/markdown-img-paste-20210301204620612.png)
 
 ![](assets/markdown-img-paste-20210301204642909.png)
+
+- Planning some level of light mahogany (brown redish) base application to the maple veneer. I may then try a VERy light sand back given the limited depth of the veneer and then apply my yellow on top. I gotta watch out here as with the yellow and limited sanding options I don't want to go too far on anything.
