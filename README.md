@@ -61,3 +61,32 @@
 ![](assets/markdown-img-paste-20210301204642909.png)
 
 - Planning some level of light mahogany (brown redish) base application to the maple veneer. I may then try a VERy light sand back given the limited depth of the veneer and then apply my yellow on top. I gotta watch out here as with the yellow and limited sanding options I don't want to go too far on anything.
+
+# Day 7
+
+Time to stain the maple top.
+
+- Removed the tape and retaped the binding edge.
+- Lightly sand the veneer with 220 grit then 400grit
+- Applied a coat of the mahogany stain to (hopefully) develop a darker brown/red base prior to the yellow
+- Exposed glue reside NOT on the center seam, but on the binding edges :(
+
+![](assets/markdown-img-paste-20210302201435942.png)
+
+Will let dry 30min or so
+
+- sanded 400 grit to lightly expose the grain
+- applied the yellow on top
+
+![](assets/markdown-img-paste-2021030320264630.png)
+
+# Day 8
+
+game plan
+
+sanding sealer?
+
+
+coat, dry several hours, sand slightly, apply again and repat
+
+level sand from 400 up to 1500grit
