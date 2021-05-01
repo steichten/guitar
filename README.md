@@ -1,3 +1,9 @@
+# Fretwire guitar build
+
+![](assets/markdown-img-paste-20210430201531867.png)
+
+---
+
 # Day 1
 
 - will require sanding down of binding on high side of neck near joint. Binding is fair bit higher than body here
@@ -80,9 +86,10 @@ Will let dry 30min or so
 
 ![](assets/markdown-img-paste-2021030320264630.png)
 
+ allowed to dry 24 hours
 # Day 8
 
-game plan
+## game plan
 
 sanding sealer?
 
@@ -90,3 +97,43 @@ sanding sealer?
 coat, dry several hours, sand slightly, apply again and repat
 
 level sand from 400 up to 1500grit
+
+# Day 9-10
+
+Skipped the sealer and went in with poly. Lead to things slightly yellow-oranging.
+
+Abou 7 coats on maple top, 4 coats on the neck and back.
+
+![](assets/markdown-img-paste-2021043020095785.png)
+
+![](assets/markdown-img-paste-20210430201021786.png)
+
+![](assets/markdown-img-paste-2021043020112594.png)
+
+Final dry for 24 hours
+
+# Day 12
+
+ Gluing neck in
+
+Titanbond 2, sanded internal edges a bit to give space for glue
+
+Didn't use too much glue so minimal pushout from clamping
+
+# Day 13
+
+Electronics
+
+- Followed standard LP guide from fretwire and https://humbuckersoup.com/les-paul-p90-wiring-diagram/
+
+
+- Included strings awful, replaced with my own
+- Forgot to add the wire to the tailpiece insert for grounding. Whoops. I'll add it later.
+
+![](assets/markdown-img-paste-20210430201319526.png)
+
+- The included p90s were not great. Although the ohms appeared correct, however it was super weak sounding. Went and replaced them with $30 set from amazon
+-
+ ![final](assets/markdown-img-paste-20210430200823376.png)
+
+ ![](assets/markdown-img-paste-20210430201444614.png)
